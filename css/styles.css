@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    margin: 0 !important;
+    padding: 0EM !important;
+    background-color: rgb(255, 255, 255);
+}
+
+nav{
+    background-color: black;
+    margin: 0em;
+    padding: 0.5em;
+}
+
+nav a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: rgba(142, 156, 161, 0.377) !important;
+    border-radius: 10px !important;
+    padding: 0.5em;
+    text-decoration: none;
+    text-shadow: 0cqmin;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.5em;
+}
+
+.contato{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin: 4em;
+    padding: 0.4em;
+    margin-bottom: 0.5em;
+    
+}
+
+.sobre{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin: 4em;
+    padding: 0.4em;
+    margin-bottom: 0.4em;
+    
+}
+.servicos{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    margin: 4em;
+    padding: 0.4em;
+    margin-bottom: 1em;    
+}
